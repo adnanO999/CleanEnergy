@@ -1,0 +1,11 @@
+1)IMU with 6 DOF. device contains gyroscope and accelerometer used to measure
+inertia position rotation...
+
+2)acceleration vs inertial force acting on the accelerometer (work in opposite direction)
+
+3)guroscope used to measure angle orientation on three different levels(pitch rol yaw)
+mems technology used in mpu6050. when an axis is rotated a voltage is produced.Voltage is sampled 
+with 16 bits ADC inside the MPU6050
+
+4)temperature sensor is implemented on the MPU6050 and DMP(digital motion process)
+used to corrolate data from accelerometer and gyroscope
