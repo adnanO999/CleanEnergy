@@ -12,7 +12,7 @@ The project can be devided in several parts:
 * Mechanical design (me)
 * assembling and wiring hardware (me)
 * Code (collaborating)
- * S shape path1 and path2
+   * S shape path1 and path2
 
 
 
