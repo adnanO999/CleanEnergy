@@ -1,6 +1,20 @@
 # CleanEnergy
 ![onsolarpanel](https://github.com/adnanO999/CleanEnergy/assets/88556508/d074ffef-ac9d-475f-83a0-5209ce02945e)
 
+As it is obvious, the project is designed to clean solar panels. It might be an easy task however from simple observations, several problems might arise such as difficulties in covering the entire area, electrocution. Therefore I decided to build this project for the Mechatronics System design I.
+
+The project was in collaboration with Dalal Hammound and Rahaf Thebian.
+
+In this article I will be focusing on the implementation of each part and mainly the mechanical design wich was the core of the project and I was responsible of carrying out the design and implementation along with other tasks taht will be mentioned in what follows.
+
+The project can be devided in several parts:
+* Research 
+* Mechanical design (me)
+* assembling and wiring hardware (me)
+* Code (collaborating)
+* * S shape path1 and path2
+
+
 
 Solar panel cleaning rover This project aims to clean solar panels in more efficient and safe way. The design process followed several iterations and endedup using caterpillar model. The rover is designed to handle differnt slopes varying from 0 to 30 degree. A modular tensioner is mounted on both sides to enable smooth transition from on panel to the other and accomodate with height difference when moving across the panels. The Robot weight approximately 10 Kg however this weight can be reduced by removing the water tank and battery from the rover and mount them externally. S shape algorithm was used based on accelerometer and gyroscope data (pitch roll yaw angles) and projected on the panels surface. the microncontroller used was arduino mega thus processing was limited therefore I used serial communication to build python program to handle computer vision. Matlab and python codes were built using existing examples however with more modification to match our goal. These codes were used to collect data from accelerometer/gyroscope transform them to csv file and plot them to analyze the movement of the robot.
 
