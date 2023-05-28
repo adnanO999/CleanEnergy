@@ -16,6 +16,7 @@ The project can be devided in several parts:
    * Bluetooth communication/app (Dalal)
    * MPU 6050 (me)
 * Report/presentaion
+* Additional Improvements outside the course scope (personal work)
 
 Each part will be expalined along
 
