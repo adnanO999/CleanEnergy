@@ -9,12 +9,12 @@ In this article I will be focusing on the implementation of each part and mainly
 
 The project can be devided in several parts:
 * Research 
-* Mechanical design (me)
-* assembling and wiring hardware (me)
-* Code (collaborating)
-   * S shape path1 and path2 (Rahaf)
-   * Bluetooth communication/app (Dalal)
-   * MPU 6050 (me)
+* Mechanical design 
+* assembling and wiring hardware 
+* Code 
+   * S shape path1 and path2 
+   * Bluetooth communication/app 
+   * MPU 6050 
 * Report/presentaion
 * Additional Improvements outside the course scope (personal work)
 
