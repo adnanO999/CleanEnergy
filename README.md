@@ -3,7 +3,7 @@
 
 As it is obvious, the project is designed to clean solar panels. It might be an easy task however from simple observations, several problems might arise such as difficulties in covering the entire area, electrocution. Therefore I decided to build this project for the Mechatronics System design I. However I took one step further and used computer vision to detect the area of cleaning instead of relying only on sensors.
 
-The project was in collaboration with Dalal Hammound and Rahaf Thebian.
+
 
 In this article I will be focusing on the implementation of each part and mainly the mechanical design wich was the core of the project and I was responsible of carrying out the design and implementation along with other tasks taht will be mentioned in what follows.
 
